@@ -1,3 +1,4 @@
+/*
 class TableUtil
 {
   static function AddFrontChartColumn(report, table, rowCount)
@@ -68,3 +69,4 @@ class TableUtil
     return sortInfo;
   }
 }
+*/
